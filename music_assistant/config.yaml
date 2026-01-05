@@ -1,6 +1,7 @@
-name: Music Assistant
+name: Music Assistant 2.6.3
 version: 2.6.3
-slug: music_assistant
+slug: music_assistant_263
+image: ghcr.io/music-assistant/server:2.6.3
 description:
   The Music Assistant server is a free, opensource Media library manager
   that connects to your streaming services and a wide range of connected speakers.
