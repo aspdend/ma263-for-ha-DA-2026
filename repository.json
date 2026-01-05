@@ -1,5 +1,5 @@
 {
-    "name": "Music Assistant",
-    "url": "https://github.com/music-assistant/core",
-    "maintainer": "Music Assistant <marcelveldt@users.noreply.github.com>"
-  }
+  "name": "Music Assistant 2.6.3",
+  "url": "https://github.com/aspdend/home-assistant-addon2.6.3",
+  "maintainer": "aspdend <your-email@example.com>"
+}
