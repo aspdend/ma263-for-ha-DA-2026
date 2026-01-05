@@ -1,6 +1,6 @@
 # Music Assistant Add-on
 
-The official Music Assistant add-on for Home Assistant.
+The official Music Assistant add-on for Home Assistant - DA 2.6.3 Version.
 
 ## About Music Assistant
 
